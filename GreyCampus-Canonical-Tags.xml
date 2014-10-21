@@ -307,82 +307,82 @@
 	</record>
 	<record>
 		<path>quality-management/six-sigma-black-belt-boot-camp-training/brisbane</path>
-		<canonical>quality-management/six-sigma-black-belt-boot-camp-training/brisbane</canonical>
+		<canonical>quality-management/six-sigma-green-belt-and-black-belt-boot-camp-training/brisbane</canonical>
 		<status>1</status>
 	</record>
 	<record>
 		<path>quality-management/six-sigma-black-belt-boot-camp-training/bangalore</path>
-		<canonical>quality-management/six-sigma-black-belt-boot-camp-training/bangalore</canonical>
+		<canonical>quality-management/six-sigma-green-belt-and-black-belt-boot-camp-training/bangalore</canonical>
 		<status>1</status>
 	</record>
 	<record>
 		<path>quality-management/six-sigma-black-belt-boot-camp-training/melbourne</path>
-		<canonical>quality-management/six-sigma-black-belt-boot-camp-training/melbourne</canonical>
+		<canonical>quality-management/six-sigma-green-belt-and-black-belt-boot-camp-training/melbourne</canonical>
 		<status>1</status>
 	</record>
 	<record>
 		<path>quality-management/six-sigma-black-belt-boot-camp-training/perth</path>
-		<canonical>quality-management/six-sigma-black-belt-boot-camp-training/perth</canonical>
+		<canonical>quality-management/six-sigma-green-belt-and-black-belt-boot-camp-training/perth</canonical>
 		<status>1</status>
 	</record>
 	<record>
 		<path>quality-management/six-sigma-black-belt-boot-camp-training/sydney</path>
-		<canonical>quality-management/six-sigma-black-belt-boot-camp-training/sydney</canonical>
+		<canonical>quality-management/six-sigma-green-belt-and-black-belt-boot-camp-training/sydney</canonical>
 		<status>1</status>
 	</record>
 	<record>
 		<path>quality-management/six-sigma-black-belt-boot-camp-training/hyderabad</path>
-		<canonical>quality-management/six-sigma-black-belt-boot-camp-training/hyderabad</canonical>
+		<canonical>quality-management/six-sigma-green-belt-and-black-belt-boot-camp-training/hyderabad</canonical>
 		<status>1</status>
 	</record>
 	<record>
 		<path>quality-management/six-sigma-black-belt-boot-camp-training/mumbai</path>
-		<canonical>quality-management/six-sigma-black-belt-boot-camp-training/mumbai</canonical>
+		<canonical>quality-management/six-sigma-green-belt-and-black-belt-boot-camp-training/mumbai</canonical>
 		<status>1</status>
 	</record>
 	<record>
 		<path>quality-management/six-sigma-black-belt-boot-camp-training/pune</path>
-		<canonical>quality-management/six-sigma-black-belt-boot-camp-training/pune</canonical>
+		<canonical>quality-management/six-sigma-green-belt-and-black-belt-boot-camp-training/pune</canonical>
 		<status>1</status>
 	</record>
 	<record>
 		<path>quality-management/six-sigma-green-belt-boot-camp-training/brisbane</path>
-		<canonical>quality-management/six-sigma-green-belt-boot-camp-training/brisbane</canonical>
+		<canonical>quality-management/six-sigma-green-belt-and-black-belt-boot-camp-training/brisbane</canonical>
 		<status>1</status>
 	</record>
 	<record>
 		<path>quality-management/six-sigma-green-belt-boot-camp-training/bangalore</path>
-		<canonical>quality-management/six-sigma-green-belt-boot-camp-training/bangalore</canonical>
+		<canonical>quality-management/six-sigma-green-belt-and-black-belt-boot-camp-training/bangalore</canonical>
 		<status>1</status>
 	</record>
 	<record>
 		<path>quality-management/six-sigma-green-belt-boot-camp-training/melbourne</path>
-		<canonical>quality-management/six-sigma-green-belt-boot-camp-training/melbourne</canonical>
+		<canonical>quality-management/six-sigma-green-belt-and-black-belt-boot-camp-training/melbourne</canonical>
 		<status>1</status>
 	</record>
 	<record>
 		<path>quality-management/six-sigma-green-belt-boot-camp-training/perth</path>
-		<canonical>quality-management/six-sigma-green-belt-boot-camp-training/perth</canonical>
+		<canonical>quality-management/six-sigma-green-belt-and-black-belt-boot-camp-training/perth</canonical>
 		<status>1</status>
 	</record>
 	<record>
 		<path>quality-management/six-sigma-green-belt-boot-camp-training/sydney</path>
-		<canonical>quality-management/six-sigma-green-belt-boot-camp-training/sydney</canonical>
+		<canonical>quality-management/six-sigma-green-belt-and-black-belt-boot-camp-training/sydney</canonical>
 		<status>1</status>
 	</record>
 	<record>
 		<path>quality-management/six-sigma-green-belt-boot-camp-training/hyderabad</path>
-		<canonical>quality-management/six-sigma-green-belt-boot-camp-training/hyderabad</canonical>
+		<canonical>quality-management/six-sigma-green-belt-and-black-belt-boot-camp-training/hyderabad</canonical>
 		<status>1</status>
 	</record>
 	<record>
 		<path>quality-management/six-sigma-green-belt-boot-camp-training/mumbai</path>
-		<canonical>quality-management/six-sigma-green-belt-boot-camp-training/mumbai</canonical>
+		<canonical>quality-management/six-sigma-green-belt-and-black-belt-boot-camp-training/mumbai</canonical>
 		<status>1</status>
 	</record>
 	<record>
 		<path>quality-management/six-sigma-green-belt-boot-camp-training/pune</path>
-		<canonical>quality-management/six-sigma-green-belt-boot-camp-training/pune</canonical>
+		<canonical>quality-management/six-sigma-green-belt-and-black-belt-boot-camp-training/pune</canonical>
 		<status>1</status>
 	</record>
 	<record>
@@ -402,12 +402,12 @@
 	</record>
 	<record>
 		<path>quality-management/six-sigma-black-belt-boot-camp-training</path>
-		<canonical>quality-management/six-sigma-green-belt-and-black-belt-boot-camp-training</canonical>
+		<canonical>quality-management/six-sigma-green-belt-and-black-belt-and-black-belt-boot-camp-training</canonical>
 		<status>1</status>
 	</record>
 	<record>
 		<path>quality-management/six-sigma-green-belt-boot-camp-training</path>
-		<canonical>quality-management/six-sigma-green-belt-and-black-belt-boot-camp-training</canonical>
+		<canonical>quality-management/six-sigma-green-belt-and-black-belt-and-black-belt-boot-camp-training</canonical>
 		<status>1</status>
 	</record>
 	<record>
@@ -591,93 +591,23 @@
 		<status>1</status>
 	</record>
 	<record>
-		<path>allcategories/six-sigma-green-belt-and-black-belt-boot-camp-training/brisbane</path>
-		<canonical>quality-management/six-sigma-green-belt-and-black-belt-boot-camp-training/brisbane</canonical>
-		<status>1</status>
-	</record>
-	<record>
-		<path>allcategories/six-sigma-green-belt-and-black-belt-boot-camp-training/melbourne</path>
-		<canonical>quality-management/six-sigma-green-belt-and-black-belt-boot-camp-training/melbourne</canonical>
-		<status>1</status>
-	</record>
-	<record>
-		<path>allcategories/six-sigma-green-belt-and-black-belt-boot-camp-training/perth</path>
-		<canonical>quality-management/six-sigma-green-belt-and-black-belt-boot-camp-training/perth</canonical>
-		<status>1</status>
-	</record>
-	<record>
-		<path>allcategories/six-sigma-green-belt-and-black-belt-boot-camp-training/sydney</path>
-		<canonical>quality-management/six-sigma-green-belt-and-black-belt-boot-camp-training/sydney</canonical>
-		<status>1</status>
-	</record>
-	<record>
-		<path>allcategories/six-sigma-green-belt-and-black-belt-boot-camp-training/hyderabad</path>
-		<canonical>quality-management/six-sigma-green-belt-and-black-belt-boot-camp-training/hyderabad</canonical>
-		<status>1</status>
-	</record>
-	<record>
-		<path>allcategories/six-sigma-green-belt-and-black-belt-boot-camp-training/mumbai</path>
-		<canonical>quality-management/six-sigma-green-belt-and-black-belt-boot-camp-training/mumbai</canonical>
-		<status>1</status>
-	</record>
-	<record>
-		<path>allcategories/six-sigma-green-belt-and-black-belt-boot-camp-training/pune</path>
-		<canonical>quality-management/six-sigma-green-belt-and-black-belt-boot-camp-training/pune</canonical>
-		<status>1</status>
-	</record>
-	<record>
-		<path>allcategories/six-sigma-green-belt-and-black-belt-boot-camp-training/bangalore</path>
-		<canonical>quality-management/six-sigma-green-belt-and-black-belt-boot-camp-training/bangalore</canonical>
-		<status>1</status>
-	</record>
-	<record>
-		<path>allcategories/six-sigma-black-belt-boot-camp-training/houston</path>
-		<canonical>quality-management/six-sigma-black-belt-boot-camp-training/houston</canonical>
-		<status>1</status>
-	</record>
-	<record>
-		<path>allcategories/six-sigma-black-belt-boot-camp-training/new-york</path>
-		<canonical>quality-management/six-sigma-black-belt-boot-camp-training/new-york</canonical>
-		<status>1</status>
-	</record>
-	<record>
-		<path>allcategories/six-sigma-green-belt-boot-camp-training/johannesburg</path>
-		<canonical>quality-management/six-sigma-green-belt-boot-camp-training/johannesburg</canonical>
-		<status>1</status>
-	</record>
-	<record>
-		<path>allcategories/six-sigma-green-belt-boot-camp-training/abudhabi</path>
-		<canonical>quality-management/six-sigma-green-belt-boot-camp-training/abudhabi</canonical>
-		<status>1</status>
-	</record>
-	<record>
-		<path>allcategories/six-sigma-green-belt-boot-camp-training/houston</path>
-		<canonical>quality-management/six-sigma-green-belt-boot-camp-training/houston</canonical>
-		<status>1</status>
-	</record>
-	<record>
 		<path>allcategories/six-sigma-green-belt-boot-camp-training/chennai</path>
-		<canonical>quality-management/six-sigma-green-belt-boot-camp-training/chennai</canonical>
+		<canonical>quality-management/six-sigma-green-belt-and-black-belt-boot-camp-training/chennai</canonical>
 		<status>1</status>
 	</record>
 	<record>
 		<path>allcategories/six-sigma-green-belt-boot-camp-training/delhi</path>
-		<canonical>quality-management/six-sigma-green-belt-boot-camp-training/delhi</canonical>
+		<canonical>quality-management/six-sigma-green-belt-and-black-belt-boot-camp-training/delhi</canonical>
 		<status>1</status>
 	</record>
 	<record>
 		<path>allcategories/six-sigma-green-belt-boot-camp-training/kolkata</path>
-		<canonical>quality-management/six-sigma-green-belt-boot-camp-training/kolkata</canonical>
+		<canonical>quality-management/six-sigma-green-belt-and-black-belt-boot-camp-training/kolkata</canonical>
 		<status>1</status>
 	</record>
 	<record>
 		<path>allcategories/six-sigma-green-belt-boot-camp-training/dubai</path>
-		<canonical>quality-management/six-sigma-green-belt-boot-camp-training/dubai</canonical>
-		<status>1</status>
-	</record>
-	<record>
-		<path>allcategories/six-sigma-green-belt-boot-camp-training/new-york</path>
-		<canonical>quality-management/six-sigma-green-belt-boot-camp-training/new-york</canonical>
+		<canonical>quality-management/six-sigma-green-belt-and-black-belt-boot-camp-training/dubai</canonical>
 		<status>1</status>
 	</record>
 	<record>
@@ -1042,7 +972,7 @@
 	</record>
 	<record>
 		<path>allcategories/six-sigma-green-belt-and-black-belt-boot-camp-training</path>
-		<canonical>quality-management/six-sigma-green-belt-and-black-belt-boot-camp-training</canonical>
+		<canonical>quality-management/six-sigma-green-belt-and-black-belt-and-black-belt-boot-camp-training</canonical>
 		<status>1</status>
 	</record>
 	<record>
@@ -1357,82 +1287,82 @@
 	</record>
 	<record>
 		<path>allcategories/six-sigma-black-belt-boot-camp-training/brisbane</path>
-		<canonical>quality-management/six-sigma-black-belt-boot-camp-training/brisbane</canonical>
+		<canonical>quality-management/six-sigma-green-belt-and-black-belt-boot-camp-training/brisbane</canonical>
 		<status>1</status>
 	</record>
 	<record>
 		<path>allcategories/six-sigma-black-belt-boot-camp-training/bangalore</path>
-		<canonical>quality-management/six-sigma-black-belt-boot-camp-training/bangalore</canonical>
+		<canonical>quality-management/six-sigma-green-belt-and-black-belt-boot-camp-training/bangalore</canonical>
 		<status>1</status>
 	</record>
 	<record>
 		<path>allcategories/six-sigma-black-belt-boot-camp-training/melbourne</path>
-		<canonical>quality-management/six-sigma-black-belt-boot-camp-training/melbourne</canonical>
+		<canonical>quality-management/six-sigma-green-belt-and-black-belt-boot-camp-training/melbourne</canonical>
 		<status>1</status>
 	</record>
 	<record>
 		<path>allcategories/six-sigma-black-belt-boot-camp-training/perth</path>
-		<canonical>quality-management/six-sigma-black-belt-boot-camp-training/perth</canonical>
+		<canonical>quality-management/six-sigma-green-belt-and-black-belt-boot-camp-training/perth</canonical>
 		<status>1</status>
 	</record>
 	<record>
 		<path>allcategories/six-sigma-black-belt-boot-camp-training/sydney</path>
-		<canonical>quality-management/six-sigma-black-belt-boot-camp-training/sydney</canonical>
+		<canonical>quality-management/six-sigma-green-belt-and-black-belt-boot-camp-training/sydney</canonical>
 		<status>1</status>
 	</record>
 	<record>
 		<path>allcategories/six-sigma-black-belt-boot-camp-training/hyderabad</path>
-		<canonical>quality-management/six-sigma-black-belt-boot-camp-training/hyderabad</canonical>
+		<canonical>quality-management/six-sigma-green-belt-and-black-belt-boot-camp-training/hyderabad</canonical>
 		<status>1</status>
 	</record>
 	<record>
 		<path>allcategories/six-sigma-black-belt-boot-camp-training/mumbai</path>
-		<canonical>quality-management/six-sigma-black-belt-boot-camp-training/mumbai</canonical>
+		<canonical>quality-management/six-sigma-green-belt-and-black-belt-boot-camp-training/mumbai</canonical>
 		<status>1</status>
 	</record>
 	<record>
 		<path>allcategories/six-sigma-black-belt-boot-camp-training/pune</path>
-		<canonical>quality-management/six-sigma-black-belt-boot-camp-training/pune</canonical>
+		<canonical>quality-management/six-sigma-green-belt-and-black-belt-boot-camp-training/pune</canonical>
 		<status>1</status>
 	</record>
 	<record>
 		<path>allcategories/six-sigma-green-belt-boot-camp-training/brisbane</path>
-		<canonical>quality-management/six-sigma-green-belt-boot-camp-training/brisbane</canonical>
+		<canonical>quality-management/six-sigma-green-belt-and-black-belt-boot-camp-training/brisbane</canonical>
 		<status>1</status>
 	</record>
 	<record>
 		<path>allcategories/six-sigma-green-belt-boot-camp-training/bangalore</path>
-		<canonical>quality-management/six-sigma-green-belt-boot-camp-training/bangalore</canonical>
+		<canonical>quality-management/six-sigma-green-belt-and-black-belt-boot-camp-training/bangalore</canonical>
 		<status>1</status>
 	</record>
 	<record>
 		<path>allcategories/six-sigma-green-belt-boot-camp-training/melbourne</path>
-		<canonical>quality-management/six-sigma-green-belt-boot-camp-training/melbourne</canonical>
+		<canonical>quality-management/six-sigma-green-belt-and-black-belt-boot-camp-training/melbourne</canonical>
 		<status>1</status>
 	</record>
 	<record>
 		<path>allcategories/six-sigma-green-belt-boot-camp-training/perth</path>
-		<canonical>quality-management/six-sigma-green-belt-boot-camp-training/perth</canonical>
+		<canonical>quality-management/six-sigma-green-belt-and-black-belt-boot-camp-training/perth</canonical>
 		<status>1</status>
 	</record>
 	<record>
 		<path>allcategories/six-sigma-green-belt-boot-camp-training/sydney</path>
-		<canonical>quality-management/six-sigma-green-belt-boot-camp-training/sydney</canonical>
+		<canonical>quality-management/six-sigma-green-belt-and-black-belt-boot-camp-training/sydney</canonical>
 		<status>1</status>
 	</record>
 	<record>
 		<path>allcategories/six-sigma-green-belt-boot-camp-training/hyderabad</path>
-		<canonical>quality-management/six-sigma-green-belt-boot-camp-training/hyderabad</canonical>
+		<canonical>quality-management/six-sigma-green-belt-and-black-belt-boot-camp-training/hyderabad</canonical>
 		<status>1</status>
 	</record>
 	<record>
 		<path>allcategories/six-sigma-green-belt-boot-camp-training/mumbai</path>
-		<canonical>quality-management/six-sigma-green-belt-boot-camp-training/mumbai</canonical>
+		<canonical>quality-management/six-sigma-green-belt-and-black-belt-boot-camp-training/mumbai</canonical>
 		<status>1</status>
 	</record>
 	<record>
 		<path>allcategories/six-sigma-green-belt-boot-camp-training/pune</path>
-		<canonical>quality-management/six-sigma-green-belt-boot-camp-training/pune</canonical>
+		<canonical>quality-management/six-sigma-green-belt-and-black-belt-boot-camp-training/pune</canonical>
 		<status>1</status>
 	</record>
 	<record>
@@ -1452,12 +1382,12 @@
 	</record>
 	<record>
 		<path>allcategories/six-sigma-black-belt-boot-camp-training</path>
-		<canonical>quality-management/six-sigma-green-belt-and-black-belt-boot-camp-training</canonical>
+		<canonical>quality-management/six-sigma-green-belt-and-black-belt-and-black-belt-boot-camp-training</canonical>
 		<status>1</status>
 	</record>
 	<record>
 		<path>allcategories/six-sigma-green-belt-boot-camp-training</path>
-		<canonical>quality-management/six-sigma-green-belt-and-black-belt-boot-camp-training</canonical>
+		<canonical>quality-management/six-sigma-green-belt-and-black-belt-and-black-belt-boot-camp-training</canonical>
 		<status>1</status>
 	</record>
 </document>
